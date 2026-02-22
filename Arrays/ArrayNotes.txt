@@ -1,6 +1,6 @@
 // class Arrays{ } // java utililiy class
 
-//print values of an aray
+//print values of an array
 Arrays.toString(variable);
 
 Arrays.sort(variable);
