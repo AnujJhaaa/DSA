@@ -1,5 +1,3 @@
-package com.codegnan.arrays;
-
 public class Employee {
     int eId;
     String eName;

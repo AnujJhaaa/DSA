@@ -1,4 +1,4 @@
-public class MergeSortedArray {
+public class Merge2SortedArray {
     public static void main(String[] args) {
         int[] arr1 = {1,3,4,5,9};
         System.out.print("Array : ");
